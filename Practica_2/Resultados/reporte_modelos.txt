@@ -1,0 +1,3 @@
+Naive Bayes: 0.9600
+Árbol de Decisión: 1.0000
+Red Neuronal: 0.9600
